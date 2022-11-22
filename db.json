@@ -1,0 +1,93 @@
+{
+  "pratos": [
+    {
+      "id": 1,
+      "titulo": "Abará",
+      "estado": "Bahia",
+      "imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2020/12/IMG_9595-768x495.jpg"
+    },
+    {
+      "titulo": "Acarajé",
+      "estado": "Bahia",
+      "imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-acaraje-768x495.jpg.webp",
+      "id": 2
+    },
+    {
+      "titulo": "Barreado",
+      "estado": "Paraná",
+      "imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-barreado-768x495.jpg.webp",
+      "id": 3
+    },
+    {
+      "titulo": "Biscoito de Polvilho-Globo",
+      "estado": "Rio de Janeiro",
+      "roteiro": "Quentin Tarantino",
+      "imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-biscoito-de-polvilho-768x495.jpg.webp",
+      "id": 4
+    },
+    {
+      "titulo": "Feijão Tropeiro",
+      "estado": "São Paulo e Minas Gerais",
+      "imagem": "https://www.penaestrada.blog.br/wp-content/uploads/2021/02/comidas-tipicas-do-brasil-bolo-de-rolo-768x495.jpg.webp",
+      "id": 5
+    }
+  ],
+  "bebidas": [
+    {
+      "titulo": "Chimarrão",
+      "região": "Sul do País",
+      "imagem": "https://conteudo.bblend.com.br/wp-content/uploads/2021/01/bebidasbrasileiras2-768x512.webp",
+      "id": 1
+    },
+    {
+      "titulo": "Caipirinha",
+      "região": "Sudeste - Rio de Janeiro",
+      "imagem": "https://img.itdg.com.br/images/recipes/000/128/825/319875/319875_original.jpg",
+      "id": 2
+    },
+    {
+      "titulo": "Guaraba (Caldo de Cana)",
+      "região": "Sudeste - São Paulo",
+      "imagem": "https://nsc-total-wp.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/10/caldo-de-cana-1.jpg",
+      "id": 3
+    },
+    {
+      "titulo": "Água de Coco",
+      "região": "Nordeste",
+      "imagem": "https://www.correio24horas.com.br/fileadmin/_processed_/2/5/csm_agua_de_coco_7607471d88.jpg",
+      "id": 4
+    }
+  ],
+  "estabelecimentos": [
+    {
+      "local": "Santa Cruz",
+      "estado": "RJ",
+      "id": 1
+    },
+    {
+      "local": "Lapa",
+      "estado": "RJ",
+      "id": 2
+    },
+    {
+      "local": "Campo Grande",
+      "estado": "RJ",
+      "id": 3
+    },
+    {
+      "local": "Cesarão",
+      "estado": "RJ",
+      "id": 4
+    },
+    {
+      "local": "Liberdade",
+      "estado": "SP",
+      "id": 5
+    },
+    {
+      "local": "Central do Brasil",
+      "estado": "RJ",
+      "id": 6
+    }
+  ]
+}
